@@ -15,7 +15,7 @@ Tienes distintas maneras de contribuir, directas e indirectas. ¡Veamos como son
 ## Directa
 ¡Ayúdanos a traducir! Debes de cumplir un par de requerimientos simples:
 
-- Nivel básico/medio de inglés o japones
+- Nivel básico/medio de inglés o japonés
 - Ordenador o móvil (ordenador recomendado)
 - Muchas ganas de trabajar 😉
 
@@ -56,9 +56,9 @@ Para las traducciones hay que seguir unas reglas sencillas de sintaxis, ¡vamos 
 Una vez listo, puedes mandarme por Discord (167#0353) las traducciones de esta manera:
 - Texto original
 - Texto traducido
-- Traductores
+- Traductores que hicieron la traducción del archivo
 
-Una vez mandado todo eso se empezará a revisar como por como que todo esté correcto.
+Una vez mandado todo eso se empezará a revisar coma por coma que todo esté correcto.
 Respecto a los **nombres de los personajes** vamos a empezar a buscar traducciones no oficiales pero cercanas a lo que serían.
 
 # Indirecta
